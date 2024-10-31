@@ -30,6 +30,7 @@ const App: React.FC = () => { // Main App component
       { date: '2024-10-01', status: 'A' }, // Absent on 2024-10-01
       { date: '2024-10-05', status: 'P' }, // Present on 2024-10-05
       { date: '2024-12-14', status: 'A' }, // Absent on 2024-12-14
+      { date: '2024-11-14', status: 'A' }, // Absent on 2024-12-14
     ],
     Omkar: [ // Attendance records for Omkar
       { date: '2024-10-10', status: 'P' }, // Present on 2024-10-10
